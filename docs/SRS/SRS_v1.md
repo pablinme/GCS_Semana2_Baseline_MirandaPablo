@@ -21,3 +21,6 @@ La interfaz de acceso debe operar correctamente en los principales navegadores y
 
 #Concurrencia
 El módulo de login debe soportar solicitudes de manera simultanea sin que esto degrade el servicio.
+
+#MFA
+El módulo de login debe permitir un segundo factor de autenticación.
